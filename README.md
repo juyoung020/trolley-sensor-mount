@@ -16,11 +16,11 @@ Fits rim thickness + gap of about 18–54 mm and a pocket at least 24 mm deep.
 | `mount_body.stl` | one piece: plate, plug, front arm with threaded hole, D435 plate (2× M3, 45 mm), back column, VN-100 seat (2× M3, 2 dowel holes, open back for the cable). Printed on its side |
 | `front_screw.stl` | knob screw with ball tip, printed standing on the knob |
 | `front_jaw.stl` | jaw with grip grooves and ball socket |
-| `trolley_mount_X2D.3mf` | Bambu Lab X2D project: 0.28 mm, 2 walls, 8 % infill, tree supports under the body only, ~1 h 35 min, 55 g |
+| `trolley_mount_X2D.3mf` | Bambu Lab X2D project: 0.28 mm, 2 walls, 8 % infill, tree supports under the body only, ~1 h 29 min, 51 g |
 
 ![print layout](images/print_layout.png)
 
-Hardware: 2× M3×8 (D435 back), 2× M3×6 (VN-100 from below).
+Hardware: 2× M3×6 (D435 back, max 3 mm into the camera), 2× M3×6 (VN-100 from above through its flange into the plate).
 
 `trolley_mount.blend` is the Blender source. Grey and red boxes are the sensors, not printed parts.
 
